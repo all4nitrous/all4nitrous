@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Masters of Cyber Security at NJIT<br><br>🌱 I’m currently learning C, C++, and JAVA<br><br>⚡ Originally from Houston Texas
+🔭 Masters of Cyber Security student at NJIT<br><br>🌱 I’m currently learning C, C++, and JAVA<br><br>⚡ Originally from Houston Texas
 
 
 ## 🌐 Socials:
